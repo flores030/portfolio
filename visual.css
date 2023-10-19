@@ -15,7 +15,7 @@ body{
 
 
 #menu-h {
-    padding-left: 450px;
+    padding-left: 25%;
     background-color: rgb(48, 48, 48);
     border-radius: 20px;
 }
@@ -633,7 +633,7 @@ div[class*=box] {
 
     border-radius: 15px;
     
-     margin-left: 550px;
+     margin-left: 30%;
 }
 
 

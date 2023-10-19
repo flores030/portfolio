@@ -55,10 +55,8 @@ footer {
     border-top: 5px solid #000000;
     background-color: rgb(173, 173, 173);
     padding: 13px;
-    max-height: 300px;
-    max-width: 100000px;
-    border-right: 0;
-    overflow: hidden;
+    
+    
 }
 footer a {
     font-weight: bold;
@@ -89,22 +87,8 @@ footer li:hover {
 
 }
 
-.viper {
-    position: absolute;
-    max-width: 100%;
-    max-height: 300px;
-    width: 250px;
-    height: 600px ;
-    margin-left: 1550px;
-    padding: 30px;
-    margin-top: 240px;
 
 
-}
-
-/* #carouselExampleControls {
-    
-} */
 
 
 
@@ -519,13 +503,25 @@ font-family: 'Titan One', cursive;
     max-height: 50px;
     width: 250px;
     height: 600px ;
-    margin-left: 1390px;
+    margin-left: 1190px;
     padding: 30px;
     margin-top: 417px;
     
 
 }
 
+.viper {
+    position: absolute;
+    max-width: 100%;
+    max-height: 300px;
+    width: 250px;
+    height: 600px ;
+    margin-left: 1360px;
+    padding: 30px;
+    margin-top: 240px;
+
+
+}
 
 
 
